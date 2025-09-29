@@ -35,11 +35,13 @@ Siga os passos abaixo para configurar e rodar a API em sua máquina local.
 
 ### 1. Clonar o Repositório
 
-```bash
-git clone [https://github.com/MatheusMagalhaes-dev/Champions.git](https://github.com/MatheusMagalhaes-dev/Champions.git)
-cd Champions
-2. Instalar Dependências
 ```
+git clone [https://github.com/MatheusMagalhaes-dev/Champions.git](https://github.com/MatheusMagalhaes-dev/Champions.git)
+```
+```
+cd Champions
+```
+# 2. Instalar Dependências
 ```
 npm install
 ```
