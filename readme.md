@@ -36,7 +36,7 @@ Siga os passos abaixo para configurar e rodar a API em sua máquina local.
 ### 1. Clonar o Repositório
 
 ```
-git clone [https://github.com/MatheusMagalhaes-dev/Champions.git](https://github.com/MatheusMagalhaes-dev/Champions.git)
+git clonehttps://github.com/MatheusMagalhaes-dev/Champions.git
 ```
 ```
 cd Champions
